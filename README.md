@@ -38,4 +38,4 @@ python -m pytest tests
 | `app/main.py` | FastAPI endpoints |
 | `frontend/streamlit_app.py` | Chat UI with source viewer |
 
-See `PROGRESS.md` for what is done and what remains.
+
