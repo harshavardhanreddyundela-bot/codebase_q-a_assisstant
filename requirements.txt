@@ -1,0 +1,11 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.6
+chromadb>=0.5
+python-dotenv>=1.0
+requests>=2.31
+streamlit>=1.35
+google-genai>=0.8      # only needed if LLM_PROVIDER=gemini
+openai>=1.30           # only needed if LLM_PROVIDER=openai
+pytest>=8.0
